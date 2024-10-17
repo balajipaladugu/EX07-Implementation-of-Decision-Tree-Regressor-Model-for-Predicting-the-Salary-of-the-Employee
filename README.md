@@ -53,10 +53,9 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/fbc87aab-4240-4812-bf76-cbfa9d0984ce)
-![image](https://github.com/user-attachments/assets/5b2bac74-9a58-4ce7-9322-b7b690ca432c)
-![image](https://github.com/user-attachments/assets/cce5a213-e0cb-4c28-8769-23ef09b0a776)
-
+![image](https://github.com/user-attachments/assets/37476661-efb7-4bf6-960c-ef5d6b2b0028)
+![image](https://github.com/user-attachments/assets/87fdb923-a959-4156-bde3-e4581ccd8b32)
+![image](https://github.com/user-attachments/assets/c7f59133-26a3-4576-95cf-502fc9bd2f05)
 
 
 ## Result:
